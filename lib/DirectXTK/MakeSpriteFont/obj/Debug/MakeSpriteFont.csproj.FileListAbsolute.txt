@@ -1,0 +1,5 @@
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\Fizz6\Fizz6\DirectXTK\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\Fizz6\Fizz6\DirectXTK\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\Fizz6\Fizz6\DirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\Fizz6\Fizz6\DirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+C:\Users\Josh\Documents\Visual Studio 2013\Projects\Fizz6\Fizz6\DirectXTK\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
