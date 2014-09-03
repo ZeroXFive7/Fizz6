@@ -69,7 +69,19 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Collider.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Polygon.cpp" />
+    <ClCompile Include="Primitive.cpp" />
+    <ClCompile Include="Quadrilateral.cpp" />
+    <ClCompile Include="Triangle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Collider.h" />
+    <ClInclude Include="Polygon.h" />
+    <ClInclude Include="Primitive.h" />
+    <ClInclude Include="Quadrilateral.h" />
+    <ClInclude Include="Triangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
